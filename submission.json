@@ -1,0 +1,7 @@
+{
+  "prompt": "A single haunting image: Dozens of tiny Indian village children desperately climb a golden ladder reaching toward a bright future sky. HALFWAY UP, the ladder CRUMBLES—35 children's silhouettes tumble into darkness below, while 22 continue safely upward (exact proportion). No text, labels, or charts. Dusty earth tones, dramatic golden hour lighting, cinematic National Geographic style. Child figures small but clear in infinite landscape. RAW EMOTION: hope turning to tragedy, broken dreams falling. Highly detailed, no clichés. Negative prompt: graphs, bars, pie charts, legends, cartoons, bright colors, text",
+  "model": "Ideogram 2",
+  "dataset_name": "India Nutrition Profile - Global Nutrition Report",
+  "dataset_url": "https://globalnutritionreport.org/resources/nutrition-profiles/asia/southern-asia/india/",
+  "insight": "India's 35% child stunting rate is 60% higher than Asia's 22% average—35 million kids permanently damaged."
+}
